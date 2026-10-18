@@ -1,0 +1,50 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 983 >>
+stream
+BT /F1 18 Tf 50 750 Td (Activity 06: Device Anatomy) Tj ET
+BT /F2 11 Tf 50 725 Td (Subject: E-Waste Management (INFT)) Tj ET
+BT /F3 9 Tf 50 705 Td (Student: Shreesh Khamkar | Roll No: 24101B0026 | Class: INFT-B) Tj ET
+BT /F2 10 Tf 50 670 Td (_____________________________________________________________________________________) Tj ET
+BT /F2 10 Tf 50 640 Td (Hardware Teardown and Material Composition Analysis:) Tj ET
+BT /F2 10 Tf 50 622 Td (Disassembly breakdown of consumer electronic hardware [Smartphone / Motherboard]:) Tj ET
+BT /F2 10 Tf 50 604 Td (- Printed Circuit Board: Gold, Copper, Palladium, Silver contact pins.) Tj ET
+BT /F2 10 Tf 50 586 Td (- Chassis and Case: Recyclable Aluminum, Polycarbonate alloys, and ABS plastics.) Tj ET
+BT /F2 10 Tf 50 568 Td (- Battery Cell: Lithium Cobalt Oxide cathode, graphite anode, copper/aluminum foils.) Tj ET
+BT /F2 10 Tf 50 550 Td (- Display Panel: Indium Tin Oxide [ITO] thin films, liquid crystals, and glass substrate.) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000261 00000 n 
+0000001295 00000 n 
+0000001370 00000 n 
+0000001440 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1518
+%%EOF
